@@ -43,9 +43,6 @@ Welcome to my GitHub profile! 🌷
 - Business Analysis
 - Information Systems
 
-## 📊 GitHub Stats
-
-![Dinda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dindaoctaviani23-hub&show_icons=true&theme=default)
 
 ---
 
