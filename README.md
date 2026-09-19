@@ -16,7 +16,7 @@ Welcome to my GitHub profile! 🌷
 
 - 📧 Email: [dindaoctaviani23@gmail.com]
 - 📷 Instagram: [dindaocts]
-- 🐙 GitHub: [Dindaocts]
+- 🐙 GitHub: [dindaoctaviani23-hub]
 
 ## 🛠️ Tech Stack & Tools
 
@@ -45,7 +45,7 @@ Welcome to my GitHub profile! 🌷
 
 ## 📊 GitHub Stats
 
-![Dinda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dindaocts&show_icons=true&theme=default)
+![Dinda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dindaoctaviani23-hub&show_icons=true&theme=default)
 
 ---
 
